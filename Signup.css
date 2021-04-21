@@ -11,7 +11,7 @@ box-sizing: border-box;
 input[type = text], input[type=password], input[type=email]{
 width:50%;
 padding: 20px;
-margin: 5px 0 22px 0;
+margin: 5px 10px 22px 10px;
 display: inline-block;
 border: none;
 }
@@ -24,11 +24,10 @@ label{
 }
 
 
-
 .left-section{
     position: absolute;
     top:0;
-    left:0;
+    left:10px;
     box-sizing: border-box;
 }
 
